@@ -1,5 +1,7 @@
 # Healthcare Bluebook
 
+Group project for Nashville Software School to analyze Medicare pricing across different facilities and counties.
+
 ## Data Sources
 
 #### Physician & Other Supplier Payments
